@@ -8,10 +8,10 @@
             "category": "La Liga",
             "country": "Espagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/10/UoqvrLYPULl7Cns.jpg",
-                "https://cdn.footballkitarchive.com/2024/10/13/ehNruT2oKDfTzJv.jpg",
-                "https://cdn.footballkitarchive.com/2024/10/20/eSeXleDvBQkv63a.jpg"
-            ],
+          "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Flegends.broadleafcloud.com%2Fapi%2Fasset%2Fcontent%2FRMCFMZ0195-01-1.jpg%3FcontextRequest%3D%7B%22forceCatalogForFetch%22%3Afalse%2C%22forceFilterByCatalogIncludeInheritance%22%3Afalse%2C%22forceFilterByCatalogExcludeInheritance%22%3Afalse%2C%22applicationId%22%3A%2201H4RD9NXMKQBQ1WVKM1181VD8%22%2C%22tenantId%22%3A%22REAL_MADRID%22%7D&w=1200&q=75",
+          "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Flegends.broadleafcloud.com%2Fapi%2Fasset%2Fcontent%2FRMCFMZ0201-1.jpg%3FcontextRequest%3D%7B%22forceCatalogForFetch%22%3Afalse%2C%22forceFilterByCatalogIncludeInheritance%22%3Afalse%2C%22forceFilterByCatalogExcludeInheritance%22%3Afalse%2C%22applicationId%22%3A%2201H4RD9NXMKQBQ1WVKM1181VD8%22%2C%22tenantId%22%3A%22REAL_MADRID%22%7D&w=1200&q=75",
+          "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Flegends.broadleafcloud.com%2Fapi%2Fasset%2Fcontent%2FRMCFMZ0205-01.jpg%3FcontextRequest%3D%7B%22forceCatalogForFetch%22%3Afalse%2C%22forceFilterByCatalogIncludeInheritance%22%3Afalse%2C%22forceFilterByCatalogExcludeInheritance%22%3Afalse%2C%22applicationId%22%3A%2201H4RD9NXMKQBQ1WVKM1181VD8%22%2C%22tenantId%22%3A%22REAL_MADRID%22%7D&w=1200&q=75"
+        ],
             "rating": {
                 "rate": 4.5,
                 "count": 120
@@ -25,10 +25,10 @@
             "category": "La Liga",
             "country": "Espagne",
             "images": [
-                "https://store.fcbarcelona.com/cdn/shop/files/25100BM_1_86eb0beb-5621-4ac0-a371-fffc816c53ae.jpg?v=1728911048&width=493",
-                "https://cdn.footballkitarchive.com/2024/10/01/kTwx6UKUcOnqBc5.jpg",
-                "https://cdn.footballkitarchive.com/2024/10/01/GSDLyeBobfzSO9x.jpg"
-            ],
+          "https://store.fcbarcelona.com/cdn/shop/files/25100BM_1_86eb0beb-5621-4ac0-a371-fffc816c53ae.jpg?v=1728911048&width=493",
+          "https://store.fcbarcelona.com/cdn/shop/files/VO240917A71454_med_4bceeb70-c419-4d90-b73c-1c5995707991.jpg?v=1726649023&width=493",
+          "https://store.fcbarcelona.com/cdn/shop/files/25200C_1.jpg?v=1725428228&width=493"
+        ],
             "rating": {
                 "rate": 4.1,
                 "count": 259
@@ -42,10 +42,10 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/01/wUOw1MLFGu7rjaJ.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/25/b4nF3YsZcetpGhe.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/17/WH7KDRm0ggyaXxk.jpg"
-            ],
+          "https://mufc-live.cdn.scayle.cloud/images/8ed8c14d2c334556c14da1116ba32a50.jpg?brightness=1&width=922&height=1230&quality=75&bg=ffffff",
+          "https://mufc-live.cdn.scayle.cloud/images/0410e2099b1d2ba812e40aba0a9719d5.jpg?brightness=1&width=922&height=1230&quality=75&bg=ffffff",
+          "https://mufc-live.cdn.scayle.cloud/images/0dd8a9fe914d7bca2c29eb631fa44e96.jpg?brightness=1&width=922&height=1230&quality=75&bg=ffffff"
+        ],
             "rating": {
                 "rate": 4.7,
                 "count": 500
@@ -59,9 +59,11 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/05/17/lWljBTauQpZczG4.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/02/HmOGDfHNKWwqZjt.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/27/yAEU6nWBJ7VppEb.jpg"
+                
+"https://store.liverpoolfc.com/media/catalog/product/cache/6e0c7b53c0ed72fe014b8d12b60d479c/f/n/fn8798g_1.jpg",
+"https://store.liverpoolfc.com/media/catalog/product/cache/6e0c7b53c0ed72fe014b8d12b60d479c/f/n/fn8761-322_362544054_d_a_1x1alt.jpg",
+"https://store.liverpoolfc.com/media/catalog/product/cache/6e0c7b53c0ed72fe014b8d12b60d479c/f/q/fq2030w_fq2030-101-phsfm001.jpg"
+
             ],
             "rating": {
                 "rate": 2.1,
@@ -76,9 +78,11 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/08/01/Ng7FAkmGPW7rGnT.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/27/xPCjUrDQcpBqv0s.jpg",
-                "https://cdn.footballkitarchive.com/2022/12/28/CgLzMKNQMcSA4ak.jpg"
+                
+"https://images.footballfanatics.com/chelsea/chelsea-nike-home-stadium-sponsored-shirt-2023-24_ss5_p-200724834+pv-2+u-fus9tiagegulhsk9wau6+v-20hjinr1dn4w0xq4n4ad.jpg?_hv=2&w=900",
+"https://images.footballfanatics.com/chelsea/chelsea-nike-away-stadium-shirt-2024-25_ss5_p-201095783+pv-4+u-vfx0sc8fgctpjop9net3+v-bnoss4cvir28ykqtysv3.jpg?_hv=2&w=900",
+"https://images.footballfanatics.com/chelsea/chelsea-nike-third-stadium-shirt-2024-25_ss5_p-201095792+pv-2+u-9pcsrtraivp8vxgua7h8+v-kvq2dpz57cld2mra1ugk.jpg?_hv=2&w=900"
+
             ],
             "rating": {
                 "rate": 4.6,
@@ -93,9 +97,12 @@
             "category": "Bundesliga",
             "country": "Allemagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/05/06/zsJI7EFeYR2bxEa.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/17/J0NMuJqBZpcbdN1.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/12/9H4Tk2Bf75aYrB4.jpg"
+                
+"https://img.fcbayern.com/image/upload/f_auto,q_auto/eCommerce/produkte/34201",
+"https://img.fcbayern.com/image/upload/f_auto,q_auto/eCommerce/produkte/34213",
+"https://img.fcbayern.com/image/upload/f_auto,q_auto/eCommerce/produkte/34224"
+
+
             ],
             "rating": {
                 "rate": 3.9,
@@ -110,9 +117,12 @@
             "category": "Ligue 1",
             "country": "France",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/05/15/zZl4wxNEnwxOo1I.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/06/z1jirU6ezOQpP41.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/24/G0ZVt8tD1MmOCIp.jpg"
+                
+"https://images.footballfanatics.com/paris-saint-germain/psg-nike-home-stadium-shirt-2024-25_ss5_p-200827669+pv-2+u-zsehjrrtq4aszhqrqd0f+v-gfgancmusfnavrx7ghgz.jpg?_hv=2&w=900",
+"https://images.footballfanatics.com/paris-saint-germain/psg-nike-away-stadium-shirt-2024-2025_ss5_p-201545412+pv-2+u-pimzpspwmmfzlvtbk2wh+v-jxc3sg7kkrnxdqfcpokx.jpg?_hv=2&w=900",
+"https://images.footballfanatics.com/paris-saint-germain/psg-jordan-third-stadium-shirt-2024-25_ss5_p-201545418+pv-2+u-mnpaaisypi39z35fy3oy+v-i4fxi47jurbqeogppazg.jpg?_hv=2&w=900"
+
+
             ],
             "rating": {
                 "rate": 3,
@@ -127,9 +137,13 @@
             "category": "Serie A",
             "country": "Italie",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/17/1H4ApholvIBIuVr.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/05/3wp5jtMF7K2pRJJ.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/17/JycZ7Yn1L2cAshO.jpg"
+                
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/2b119c8986e84f93bb12f461e3c5f39c_9366/IS8002_HM1.jpg",
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/67780ef32a7449e0bc4299cdf115cdfb_9366/IB0503_01_laydown.jpg",
+"https://assets.adidas.com/images/w_1880,f_auto,q_auto/cd91d278d3dc4f588ae0b4e0a53f609f_9366/IY5244_HM1.jpg"
+
+
+
             ],
             "rating": {
                 "rate": 1.9,
@@ -144,9 +158,12 @@
             "category": "Serie A",
             "country": "Italie",
             "images": [
-                "https://cdn.footballkitarchive.com/2023/02/23/yRE6O0NTAgH890O.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/28/1lPiSUlw4CfY5f0.jpg",
-                "https://cdn.footballkitarchive.com/2024/05/23/Sn916PnfY14zlIQ.jpg"
+                
+"https://store.acmilan.com/cdn/shop/files/774979-A81_01.jpg?v=1716387367&width=900",
+"https://store.acmilan.com/cdn/shop/files/775013-B31_01_c8d528c1-f3de-4592-a747-1bca50936f4d.jpg?v=1722143376&width=900",
+"https://store.acmilan.com/cdn/shop/files/775028-B55_01_d8f697b2-2ed6-47b0-861f-fec7cbb26b28.jpg?v=1724305683&width=900"
+
+
             ],
             "rating": {
                 "rate": 3.3,
@@ -161,9 +178,10 @@
             "category": "Serie A",
             "country": "Italie",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/23/D1IQfAJqjNeN2sm.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/08/VIYziwdeWlNME5P.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/13/dOTGwmAsOaAiNIg.jpg"
+                
+"https://store.inter.it/dw/image/v2/BJBQ_PRD/on/demandware.static/-/Sites-inter-master-catalog/default/dw4de19501/images/large/24N001M0103_01.jpg?sw=1400&q=80",
+"https://store.inter.it/dw/image/v2/BJBQ_PRD/on/demandware.static/-/Sites-inter-master-catalog/default/dwd3cf02f1/images/large/24N001M0201_01.jpg?sw=1400&q=80",
+"https://store.inter.it/dw/image/v2/BJBQ_PRD/on/demandware.static/-/Sites-inter-master-catalog/default/dw5f6717ea/images/large/24N001M1907_01.jpg?sw=1400&q=80"
             ],
             "rating": {
                 "rate": 2.9,
@@ -178,9 +196,9 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/10/DUiBhtuyWBljwIq.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/17/aPXwryWj6WPpPJz.jpg",
-                "https://cdn.footballkitarchive.com/2024/05/16/Ue2t0zLrgASQcku.jpg"
+                "https://indiansoccermart.in/cdn/shop/files/image_272e2c2c-66a1-404c-962c-adabfdace7c6_2048x.webp?v=1684756410",
+                "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/765710/01/fv/fnd/DFA/fmt/png",
+                "https://shop.mancity.com/dw/image/v2/BDWJ_PRD/on/demandware.static/-/Sites-master-catalog-MAN/default/dwc4fd32ad/images/large/701230971001_pp_01_mcfc.png?sw=400&sh=400&sm=fit"
             ],
             "rating": {
                 "rate": 4.8,
@@ -195,9 +213,9 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/06/14/HxMnHy20yueSUI6.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/18/uTDtKHzXMWzCOao.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/12/2L4b7pxMl0bQhec.jpg"
+                "https://www.golgeter-shop.com/wp-content/uploads/2024/05/ADIDAS-ARSENAL-FC-DOMACI-DRES-ZA-ODRASLE-2024-25-1-Photoroom.png-Photoroom.png",
+                "https://thefootballfactory.com.au/wp-content/uploads/2022/11/74971201.jpg",
+                "https://img01.ztat.net/article/spp-media-p1/8193b198115f4e46897f2e488dda3066/23f0c59c62264284aef93b9646a12d38.jpg?imwidth=762&filter=packshot"
             ],
             "rating": {
                 "rate": 4.8,
@@ -212,9 +230,9 @@
             "category": "Premier League",
             "country": "Angleterre",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/06/04/WaFyNW6XvNrqQ4a.jpg",
-                "https://cdn.footballkitarchive.com/2024/06/24/w2oy5MqimL4fIAo.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/27/0AiBaGxhPwBP0t3.jpg"
+                "https://images.footballfanatics.com/tottenham-hotspur/tottenham-hotspur-nike-home-stadium-shirt-2024-25_ss5_p-200889647+u-rb9gcfmrnnuvaiemce3d+v-2wdtulecz8fktddolauf.jpg?_hv=2&w=340",
+                "https://m.media-amazon.com/images/I/51B2mqABgXL._AC_UY1000_.jpg",
+                "https://images.footballfanatics.com/tottenham-hotspur/tottenham-hotspur-1978-admiral-shirt_ss4_p-11848698+u-hkwefqcfzunra6mc285y+v-8cf540dae01e49e29056ac3674c4fd99.jpg?_hv=2&w=340"
             ],
             "rating": {
                 "rate": 2.9,
@@ -229,9 +247,9 @@
             "category": "Bundesliga",
             "country": "Allemagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/10/15/bX0pbPLRILfPLW0.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/01/JGwSkVKCGvDNBC4.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/26/GxiY5clqN1ACu24.jpg"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeGaKB1Kf4S-bzr83-Gi5qxpEbkd5xLxNJQw&s",
+                "https://www.sportsdirect.com/images/products/36820001_l.jpg",
+                "https://www.soccerbox.com/media/catalog/product/cache/9d14d56c606ce6e31fa44a7bf9aa05c5/d/o/dortmund-22-23-home-shirt-front_1.jpg"
             ],
             "rating": {
                 "rate": 4.7,
@@ -246,9 +264,9 @@
             "category": "La Liga",
             "country": "Espagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/12/p9J4Y0aYe0tIRv2.jpg",
+                "https://m.media-amazon.com/images/I/612ViNnVTwL._AC_UF1000,1000_QL80_.jpg",
                 "https://www.footballkitarchive.com/atletico-madrid-2024-25-away-kit/",
-                "https://cdn.footballkitarchive.com/2024/08/27/zfV1s9ExdAqQlMp.jpg"
+                "https://i5.walmartimages.com/asr/40366c26-03cf-439e-bc8b-f174079c752b.8a6bbb27fc404d047f95859df05bf021.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
             ],
             "rating": {
                 "rate": 4.6,
@@ -263,9 +281,9 @@
             "category": "Serie A",
             "country": "Italie",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/18/VyouBXWX4nuoYX0.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/01/AyLAyPKyQcT45mJ.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/27/QoL4pTkJDHqccnq.jpg"
+                "https://feeds.frgimages.com/ss4/https://feeds.frgimages.com/ss5/altimages/ss5/p-13386974_pv-2_u-bsjbiixc1o5mpkm4yzgg_v-rhlqbytvq0g78x8jx5qc.jpg?_hv=3",
+                "https://m.media-amazon.com/images/I/41Tqi8wMraL._AC_UY1100_.jpg",
+                "https://www.soccerbox.com/media/catalog/product/cache/9d14d56c606ce6e31fa44a7bf9aa05c5/r/o/roma-21-22-home-shirt-front.jpg"
             ],
             "rating": {
                 "rate": 4.6,
@@ -280,8 +298,9 @@
             "category": "Ligue 1",
             "country": "France",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/28/1lPiSUlw4CfY5f0.jpg",
-                "https://cdn.footballkitarchive.com/2024/01/08/xMBAHUd8rJ1yhFr.jpg"
+                "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f9e8c7bfbb564a7895833d637ec38752_9366/olympique-lyonnais-24-25-home-jersey-kids.jpg",
+                "https://static1.cdn-subsidesports.com/2/media/catalog/product/cache/abbf5437a995fd7cabd85bbbc7fdfb0f/9/c/9c8b247bf7db16f94abcfb742d03a1ac48308afa7d2adad4e67f0289ed49c2e7.jpeg"
+                "https://www.soccerbox.com/media/catalog/product/cache/9d14d56c606ce6e31fa44a7bf9aa05c5/l/y/lyon-21-22-home-shirt-front.jpg"
             ],
             "rating": {
                 "rate": 4.2,
@@ -296,9 +315,9 @@
             "category": "Serie A",
             "country": "Italie",
             "images": [
-                "https://example.com/football-socks-1.jpg",
-                "https://example.com/football-socks-2.jpg",
-                "https://example.com/football-socks-3.jpg"
+                "https://static.sscnapoli.it/img/p/8/5/8/1/8581-home_default.jpg",
+                "https://static.sscnapoli.it/img/p/9/8/0/0/9800-large_default.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI8HZgEeDhWBkqIM7oaqDUZDn4juKhJ3UjCQ&s"
             ],
             "rating": {
                 "rate": 3.8,
@@ -313,9 +332,9 @@
             "category": "La Liga",
             "country": "Espagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/07/03/qeF7zREXHME3ifW.jpg",
-                "https://cdn.footballkitarchive.com/2024/09/21/01K7hV48OHGugHU.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/03/MfuAwl3Xi2eHbtx.jpg"
+                "https://shop.sevillafc.es/cdn/shop/files/TM4254Camisetablancasevillafutbolclubprimeraequipacion2324jd_16d3388d-d7c7-4b4a-9c14-fc51a15019ab.jpg?v=1717883929",
+                "https://shop.sevillafc.es/cdn/shop/files/TM4264Camisetarojasevillafutbolclubsegundaequipacion2324_086fa91c-04fa-45b7-a003-45e957d05c39_1880x.jpg?v=1694678563",
+                "https://i.pinimg.com/736x/d4/03/68/d403684c8725f59ddcb78abcdd2a94ee.jpg"
             ],
             "rating": {
                 "rate": 4.9,
@@ -330,9 +349,9 @@
             "category": "La Liga",
             "country": "Espagne",
             "images": [
-                "https://cdn.footballkitarchive.com/2024/08/08/6q7y27VNnfj54pO.jpg",
-                "https://cdn.footballkitarchive.com/2024/07/06/SoKBX4hkjvC7wNf.jpg",
-                "https://cdn.footballkitarchive.com/2024/08/08/lVo2XhFX1AHZ6QW.jpg"
+                "https://www.futbolemotion.com/imagesarticulos/208686/750/camiseta-hummel-real-betis-tercera-equipacion-2023-2024-adulto-anthracite-0.webp",
+                "https://www.hummel.net/dw/image/v2/BDWL_PRD/on/demandware.static/-/Sites-hummel-master-catalog/default/dw116ac2bb/images/packshot/226812-6143.png?sw=1028&sh=1370&sm=fit&q=90",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfzIM7u3cv9tgV965ZItkDttdIwa0RcFdzg&s"
             ],
             "rating": {
                 "rate": 4.4,
