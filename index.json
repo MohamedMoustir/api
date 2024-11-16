@@ -3,8 +3,8 @@
       {
           "id": 1,
           "title": "Real Madrid",
-          "price": 109.95,
-          "description": "Sac à dos robuste conçu pour les joueurs de football du Real Madrid, avec une poche rembourrée pour les ordinateurs portables jusqu'à 15 pouces. Ligue : La Liga, Pays : Espagne.",
+          "price": 209.95,
+          "description": "T-shirt officiel de la Ligue Espagnole, arborant le logo emblématique et les couleurs vibrantes du championnat. Idéal pour les fans passionnés du football espagnol. Ligue : La Liga, Pays : Espagne.",
           "category": "La Liga",
           "country": "Espagne",
           "images": [
@@ -20,8 +20,8 @@
       {
           "id": 2,
           "title": "FC Barcelona",
-          "price": 22.3,
-          "description": "T-shirt d'entraînement de football ajusté avec un tissu anti-humidité pour une respirabilité et un confort lors des matchs et des entraînements intensifs. Ligue : La Liga, Pays : Espagne.",
+          "price": 220.3,
+          "description": "T-shirt officiel de la Ligue Espagnole, arborant le logo emblématique et les couleurs vibrantes du championnat. Idéal pour les fans passionnés du football espagnol. Ligue : La Liga, Pays : Espagne.",
           "category": "La Liga",
           "country": "Espagne",
           "images": [
@@ -37,8 +37,8 @@
       {
           "id": 3,
           "title": "Manchester United",
-          "price": 55.99,
-          "description": "Veste légère en coton pour les joueurs de football, idéale pour les échauffements et les détentes. Matériau respirant pour un ajustement confortable. Ligue : Premier League, Pays : Angleterre.",
+          "price": 355.99,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -54,8 +54,8 @@
       {
           "id": 4,
           "title": "Liverpool FC",
-          "price": 15.99,
-          "description": "Short de football ajusté et durable conçu pour un mouvement optimal sur le terrain. Disponible dans plusieurs couleurs d'équipe. Ligue : Premier League, Pays : Angleterre.",
+          "price": 215.99,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -73,8 +73,8 @@
       {
           "id": 5,
           "title": "Chelsea FC",
-          "price": 695,
-          "description": "Bracelet élégant inspiré des dragons mythiques, parfait pour les joueuses de football appréciant à la fois le style et la tradition. Ligue : Premier League, Pays : Angleterre.",
+          "price": 295,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -92,8 +92,8 @@
       {
           "id": 6,
           "title": "Bayern Munich",
-          "price": 168,
-          "description": "Accessoire micropavé en or élégant pour les passionnés de football. Parfait pour ajouter une touche d'élégance à votre tenue sportive. Ligue : Bundesliga, Pays : Allemagne.",
+          "price": 268,
+          "description": "T-shirt officiel de la Bundesliga allemande, avec son logo distinctif et son style sportif. Idéal pour les supporters du football allemand et de ses équipes de renom. Ligue : Bundesliga, Pays : Allemagne.",
           "category": "Bundesliga",
           "country": "Allemagne",
           "images": [
@@ -112,8 +112,8 @@
       {
           "id": 7,
           "title": "Paris Saint-Germain",
-          "price": 9.99,
-          "description": "Bague de fiançailles classique sur le thème du football pour elle. Parfaite pour célébrer les victoires et les moments spéciaux sur et en dehors du terrain. Ligue : Ligue 1, Pays : France.",
+          "price": 190.99,
+          "description": "T-shirt officiel de la Ligue 1, conçu pour les fans de football français. Confortable et stylé, il affiche fièrement le logo de l'élite du championnat. Ligue : Ligue 1, Pays : France.",
           "category": "Ligue 1",
           "country": "France",
           "images": [
@@ -132,8 +132,8 @@
       {
           "id": 8,
           "title": "Juventus FC",
-          "price": 10.99,
-          "description": "Boucles d'oreilles à double bouchon tunnel plaquées or rose avec un motif de football. Fabriquées en acier inoxydable durable, parfaites pour les fans de football. Ligue : Serie A, Pays : Italie.",
+          "price": 310.99,
+          "description": "T-shirt officiel de la Serie A italienne, mettant en avant le prestigieux logo du championnat. Parfait pour les supporters du calcio et les passionnés de football italien. Ligue : Serie A, Pays : Italie.",
           "category": "Serie A",
           "country": "Italie",
           "images": [
@@ -153,8 +153,8 @@
       {
           "id": 9,
           "title": "AC Milan",
-          "price": 64,
-          "description": "Disque dur externe à haute capacité pour stocker vos séquences de matchs de football, stratégies et données importantes. USB 3.0 pour des transferts de données rapides. Ligue : Serie A, Pays : Italie.",
+          "price": 264,
+          "description": "T-shirt officiel de la Serie A italienne, mettant en avant le prestigieux logo du championnat. Parfait pour les supporters du calcio et les passionnés de football italien. Ligue : Serie A, Pays : Italie.",
           "category": "Serie A",
           "country": "Italie",
           "images": [
@@ -173,8 +173,8 @@
       {
           "id": 10,
           "title": "Inter Milan",
-          "price": 109,
-          "description": "Améliorez vos analyses footballistiques avec ce SSD interne à haute vitesse. Améliore les performances pour un accès rapide aux données et un stockage fiable. Ligue : Serie A, Pays : Italie.",
+          "price": 209,
+          "description": "T-shirt officiel de la Serie A italienne, mettant en avant le prestigieux logo du championnat. Parfait pour les supporters du calcio et les passionnés de football italien. Ligue : Serie A, Pays : Italie.",
           "category": "Serie A",
           "country": "Italie",
           "images": [
@@ -191,8 +191,8 @@
       {
           "id": 11,
           "title": "Manchester City",
-          "price": 109,
-          "description": "Optimisé pour les données et les vidéos d'entraînement footballistique. Dispose de la technologie avancée de cache SLC pour des performances et une fiabilité améliorées. Ligue : Premier League, Pays : Angleterre.",
+          "price": 239,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -208,8 +208,8 @@
       {
           "id": 12,
           "title": "Arsenal FC",
-          "price": 114,
-          "description": "Étendez votre expérience de jeu de football avec ce disque dur externe à haute capacité. Compatible avec Playstation 4 pour une intégration transparente. Ligue : Premier League, Pays : Angleterre.",
+          "price": 214,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -225,8 +225,8 @@
       {
           "id": 13,
           "title": "Tottenham Hotspur",
-          "price": 599,
-          "description": "Moniteur Full HD ultra-fin idéal pour analyser les séquences de matchs de football et les sessions d'entraînement. Dispose d'un écran IPS et de la technologie Radeon FreeSync. Ligue : Premier League, Pays : Angleterre.",
+          "price": 299,
+          "description": "T-shirt officiel de la Premier League anglaise, avec son logo emblématique et ses couleurs dynamiques. Un incontournable pour les fans du football anglais et de ses clubs légendaires. Ligue : Premier League, Pays : Angleterre.",
           "category": "Premier League",
           "country": "Angleterre",
           "images": [
@@ -243,7 +243,7 @@
           "id": 14,
           "title": "Borussia Dortmund",
           "price": 179.99,
-          "description": "Bottes de football légères conçues pour la vitesse et l'agilité, parfaites pour des mouvements rapides et un contrôle précis sur le terrain. Ligue : Bundesliga, Pays : Allemagne.",
+          "description": "T-shirt officiel de la Bundesliga allemande, avec son logo distinctif et son style sportif. Idéal pour les supporters du football allemand et de ses équipes de renom. Ligue : Bundesliga, Pays : Allemagne.",
           "category": "Bundesliga",
           "country": "Allemagne",
           "images": [
@@ -260,7 +260,7 @@
           "id": 15,
           "title": "Atletico Madrid",
           "price": 225.00,
-          "description": "Bottes de football Adidas Predator avec des éléments de contrôle pour des frappes puissantes et des passes précises. Ligue : La Liga, Pays : Espagne.",
+          "description": "T-shirt officiel de la Ligue Espagnole, arborant le logo emblématique et les couleurs vibrantes du championnat. Idéal pour les fans passionnés du football espagnol. Ligue : La Liga, Pays : Espagne.",
           "category": "La Liga",
           "country": "Espagne",
           "images": [
@@ -276,8 +276,8 @@
       {
           "id": 16,
           "title": "AS Roma",
-          "price": 119.99,
-          "description": "Gants de football en cuir premium conçus pour une adhérence et un confort ultimes dans toutes les conditions météorologiques, améliorant les performances sur le terrain. Ligue : Serie A, Pays : Italie.",
+          "price": 179.99,
+          "description": "T-shirt officiel de la Serie A italienne, mettant en avant le prestigieux logo du championnat. Parfait pour les supporters du calcio et les passionnés de football italien. Ligue : Serie A, Pays : Italie.",
           "category": "Serie A",
           "country": "Italie",
           "images": [
@@ -293,8 +293,8 @@
       {
           "id": 17,
           "title": "Lyon FC",
-          "price": 129.99,
-          "description": "Sac à dos de football robuste avec plusieurs compartiments pour les chaussures, bouteilles d'eau et équipement d'entraînement. Dispose de bretelles ergonomiques pour le confort. Ligue : Ligue 1, Pays : France.",
+          "price": 189.99,
+          "description": "T-shirt officiel de la Ligue 1, conçu pour les fans de football français. Confortable et stylé, il affiche fièrement le logo de l'élite du championnat. Ligue : Ligue 1, Pays : France.",
           "category": "Ligue 1",
           "country": "France",
           "images": [
@@ -310,8 +310,8 @@
       {
           "id": 18,
           "title": "Napoli FC",
-          "price": 15.99,
-          "description": "Chaussettes de football confortables fabriquées avec un tissu respirant pour un soutien maximal et une technologie anti-humidité lors des longues sessions d'entraînement. Ligue : Serie A, Pays : Italie.",
+          "price": 159.99,
+          "description": "T-shirt officiel de la Serie A italienne, mettant en avant le prestigieux logo du championnat. Parfait pour les supporters du calcio et les passionnés de football italien. Ligue : Serie A, Pays : Italie.",
           "category": "Serie A",
           "country": "Italie",
           "images": [
@@ -328,7 +328,7 @@
           "id": 19,
           "title": "Sevilla FC",
           "price": 250,
-          "description": "Chaussures d'entraînement football de haute qualité conçues pour les surfaces intérieures et extérieures. Dispose d'une semelle adhérente pour des performances optimales. Ligue : La Liga, Pays : Espagne.",
+          "description": "T-shirt officiel de la Ligue Espagnole, arborant le logo emblématique et les couleurs vibrantes du championnat. Idéal pour les fans passionnés du football espagnol. Ligue : La Liga, Pays : Espagne.",
           "category": "La Liga",
           "country": "Espagne",
           "images": [
@@ -344,8 +344,8 @@
       {
           "id": 20,
           "title": "Real Betis",
-          "price": 120,
-          "description": "Contrôleur de football sous licence FIFA pour une expérience de jeu améliorée. Dispose de déclencheurs réactifs et de boutons personnalisables pour un jeu compétitif. Ligue : La Liga, Pays : Espagne.",
+          "price": 220,
+          "description": "T-shirt officiel de la Ligue Espagnole, arborant le logo emblématique et les couleurs vibrantes du championnat. Idéal pour les fans passionnés du football espagnol. Ligue : La Liga, Pays : Espagne.",
           "category": "La Liga",
           "country": "Espagne",
           "images": [
